@@ -1,0 +1,10 @@
+<?php
+require_once('../../includes/session.php');
+require_once('../../includes/database.php');
+require_once('../../includes/database_object.php');
+require_once('../../includes/functions.php');
+require_once('../../includes/user.php');
+require_once('../../includes/photograph.php');
+require_once('../../includes/comment.php');
+require_once('../../includes/pagination.php');
+?>
